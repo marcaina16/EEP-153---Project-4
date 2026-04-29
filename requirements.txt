@@ -1,0 +1,18 @@
+Pint >= 0.25
+pandas >= 2.0
+requests >= 2.32
+scipy >= 1.17
+gspread >= 5.0.1
+gspread_pandas >= 3.2.0
+bottleneck >= 1.6
+eep153_tools >= 0.11
+fooddatacentral >= 1.0.11
+python-gnupg
+Cython >= 3.0.10
+setuptools_scm[toml]<9.0
+pandas > 3.0
+CFEDemands >= 0.4.1
+ligonlibrary >= 0.2
+ipympl
+ConsumerDemands
+oauth2client >= 4.1.3
